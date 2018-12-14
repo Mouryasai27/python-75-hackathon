@@ -5,7 +5,7 @@ print(List)
 #Access elements in a List
 print(List[0])
 print(List[1])              #prints three elements in different lines
-print(List[2])
+print(List[4])
 
 #finding the length of the list
 print("Length of the List is: ",end="")
